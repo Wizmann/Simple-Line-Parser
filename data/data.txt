@@ -1,0 +1,9 @@
+1	0.0	0.0	3:地球,亚洲,中国	True	3:0xaaaaaaaa,0xdeadbeef,0xcccccccccccccccc
+2	1.2	2.3	2:北京,天安门	False	0:
+3	error	error	10:火星,月球,朝鲜	Error	0:
+4	2.333	3.444	0:	True	2:0x23333333,0x2333333333333333
+5	1.2345	333.444	3:abc,bcd,cde	True	1:0x1234567890abcdefghijklmnopqrstuvwxyz
+abcdefg hijklmn opqrst uvwxyz
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+
+6	0.0	1.1	1:宇宙中心北朝鲜，人类希望金三胖	True	1:233
